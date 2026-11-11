@@ -1,7 +1,859 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.azindustrialsolutions.com/</loc>
-    <lastmod>2026-11-08</lastmod>
+    <lastmod>2026-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/</loc>
+    <lastmod>2026-11-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-01.jpg</image:loc>
+      <image:title>HDPE Fittings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/short-neck-stub-end/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-01.jpg</image:loc>
+      <image:title>HDPE Short Neck Stub End</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/long-neck-stub-end/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-02.jpg</image:loc>
+      <image:title>HDPE Long Neck Stub End</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/slip-on-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-03.jpg</image:loc>
+      <image:title>HDPE Slip-on Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/blind-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-04.jpg</image:loc>
+      <image:title>HDPE Blind Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/sandwich-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-05.jpg</image:loc>
+      <image:title>HDPE Sandwich Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/paddle-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-06.jpg</image:loc>
+      <image:title>HDPE Paddle Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/weld-neck-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-07.jpg</image:loc>
+      <image:title>HDPE Weld Neck Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/bend-6-kg-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-08.jpg</image:loc>
+      <image:title>HDPE Bend (6 kg / 10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/tee-6-kg-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-09.jpg</image:loc>
+      <image:title>HDPE Tee (6 kg / 10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/reducer/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-10.jpg</image:loc>
+      <image:title>HDPE Reducer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/end-cap/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-11.jpg</image:loc>
+      <image:title>HDPE End Cap</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/tail-piece/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-12.jpg</image:loc>
+      <image:title>HDPE Tail Piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/hdpe-fittings/tail-piece-with-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/hdpe-13.jpg</image:loc>
+      <image:title>HDPE Tail Piece with Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/electrofusion-fittings/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/ef-01.jpg</image:loc>
+      <image:title>Electrofusion Fittings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/electrofusion-fittings/electrofusion-tee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/ef-01.jpg</image:loc>
+      <image:title>Electrofusion Tee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/electrofusion-fittings/electrofusion-elbow-90/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/ef-02.jpg</image:loc>
+      <image:title>Electrofusion Elbow 90°</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/electrofusion-fittings/electrofusion-coupler/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/ef-03.jpg</image:loc>
+      <image:title>Electrofusion Coupler</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/electrofusion-fittings/electrofusion-end-cap/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/ef-04.jpg</image:loc>
+      <image:title>Electrofusion End Cap</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/electrofusion-fittings/electrofusion-elbow-45/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/ef-05.jpg</image:loc>
+      <image:title>Electrofusion Elbow 45°</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/electrofusion-fittings/stub-end-180-mm-long/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/ef-06.jpg</image:loc>
+      <image:title>Electrofusion Stub End (180 mm Long)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/electrofusion-fittings/electrofusion-tapping-tee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/ef-07.jpg</image:loc>
+      <image:title>Electrofusion Tapping Tee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/electrofusion-fittings/electrofusion-saddle/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/ef-08.jpg</image:loc>
+      <image:title>Electrofusion Saddle</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/electrofusion-fittings/electrofusion-reducer/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/ef-09.jpg</image:loc>
+      <image:title>Electrofusion Reducer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/spigot-fittings/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/spigot-01.jpg</image:loc>
+      <image:title>Spigot Fittings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/spigot-fittings/spigot-end-cap/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/spigot-01.jpg</image:loc>
+      <image:title>HDPE Spigot End Cap</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/spigot-fittings/bend-spigot-type-6-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/spigot-02.jpg</image:loc>
+      <image:title>HDPE Bend, Spigot Type (6/10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/spigot-fittings/tee-spigot-type-6-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/spigot-03.jpg</image:loc>
+      <image:title>HDPE Tee, Spigot Type (6/10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/spigot-fittings/sandwich-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/spigot-04.jpg</image:loc>
+      <image:title>HDPE Spigot Sandwich Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/spigot-fittings/spigot-reducing-tee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/spigot-05.jpg</image:loc>
+      <image:title>HDPE Spigot Reducing Tee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/spigot-fittings/spigot-elbow-45/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/spigot-06.jpg</image:loc>
+      <image:title>HDPE Spigot Elbow 45°</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/spigot-fittings/reducer-spigot-type/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/spigot-07.jpg</image:loc>
+      <image:title>HDPE Reducer, Spigot Type</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-01.jpg</image:loc>
+      <image:title>PPH Fittings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/short-neck-stub-end/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-01.jpg</image:loc>
+      <image:title>PPH Short Neck Stub End</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/long-neck-stub-end/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-02.jpg</image:loc>
+      <image:title>PPH Long Neck Stub End</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/slip-on-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-03.jpg</image:loc>
+      <image:title>PPH Slip-on Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/blind-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-04.jpg</image:loc>
+      <image:title>PPH Blind Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/bend-socket-weld-6-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-05.jpg</image:loc>
+      <image:title>PPH Bend, Socket Weld (6/10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/tee-socket-weld-6-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-06.jpg</image:loc>
+      <image:title>PPH Tee, Socket Weld (6/10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/bend-spigot-type-6-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-07.jpg</image:loc>
+      <image:title>PPH Bend, Spigot Type (6/10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/tee-spigot-type-6-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-08.jpg</image:loc>
+      <image:title>PPH Tee, Spigot Type (6/10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/reducing-tee-socket-butt-weld/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-09.jpg</image:loc>
+      <image:title>PPH Reducing Tee, Socket / Butt Weld</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/reducer-socket-butt-weld/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-10.jpg</image:loc>
+      <image:title>PPH Reducer, Socket / Butt Weld</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/end-cap-socket-butt-weld/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-11.jpg</image:loc>
+      <image:title>PPH End Cap, Socket / Butt Weld</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/tail-piece/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-12.jpg</image:loc>
+      <image:title>PPH Tail Piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/core-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-13.jpg</image:loc>
+      <image:title>PPH Core Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/pph-sandwich-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-14.jpg</image:loc>
+      <image:title>PPH Sandwich Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/pph-coupler/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-15.jpg</image:loc>
+      <image:title>PPH Coupler</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pph-fittings/pph-union/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pph-16.jpg</image:loc>
+      <image:title>PPH Union</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-01.jpg</image:loc>
+      <image:title>PPRC Fittings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/bend-90/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-01.jpg</image:loc>
+      <image:title>PPRC Bend 90°</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/bend-45/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-02.jpg</image:loc>
+      <image:title>PPRC Bend 45°</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/tee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-03.jpg</image:loc>
+      <image:title>PPRC Tee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/coupler/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-04.jpg</image:loc>
+      <image:title>PPRC Coupler</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/slip-on-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-05.jpg</image:loc>
+      <image:title>PPRC Slip-on Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/core-flange-long-neck/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-06.jpg</image:loc>
+      <image:title>PPRC Core Flange (Long Neck)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/reducer/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-07.jpg</image:loc>
+      <image:title>PPRC Reducer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/reducing-tee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-08.jpg</image:loc>
+      <image:title>PPRC Reducing Tee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/ball-valve/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-09.jpg</image:loc>
+      <image:title>PPRC Ball Valve</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/union/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-10.jpg</image:loc>
+      <image:title>PPRC Union</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/end-cap/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-11.jpg</image:loc>
+      <image:title>PPRC End Cap</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/ms-powder-coated-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-12.jpg</image:loc>
+      <image:title>PPRC MS Powder Coated Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/spigot-elbow/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-13.jpg</image:loc>
+      <image:title>PPRC Spigot Elbow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/spigot-tee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-14.jpg</image:loc>
+      <image:title>PPRC Spigot Tee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/long-neck/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-15.jpg</image:loc>
+      <image:title>PPRC Long Neck</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/welding-machine-die/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-16.jpg</image:loc>
+      <image:title>PPRC Welding Machine Die</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/female-thread-tee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-17.jpg</image:loc>
+      <image:title>PPRC Female Thread Tee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/male-thread-elbow/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-18.jpg</image:loc>
+      <image:title>PPRC Male Thread Elbow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/female-thread-elbow/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-19.jpg</image:loc>
+      <image:title>PPRC Female Thread Elbow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/male-thread-adaptor/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-20.jpg</image:loc>
+      <image:title>PPRC Male Thread Adaptor</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/male-thread-tee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-21.jpg</image:loc>
+      <image:title>PPRC Male Thread Tee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pprc-fittings/female-thread-adaptor/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pprc-22.jpg</image:loc>
+      <image:title>PPRC Female Thread Adaptor</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-01.jpg</image:loc>
+      <image:title>PP Fittings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/short-neck-stub-end/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-01.jpg</image:loc>
+      <image:title>PP Short Neck Stub End</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/long-neck-stub-end/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-02.jpg</image:loc>
+      <image:title>PP Long Neck Stub End</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/slip-on-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-03.jpg</image:loc>
+      <image:title>PP Slip-on Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/blind-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-04.jpg</image:loc>
+      <image:title>PP Blind Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/threaded-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-05.jpg</image:loc>
+      <image:title>PP Threaded Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/bend-6-kg-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-06.jpg</image:loc>
+      <image:title>PP Bend (6 kg / 10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/tee-6-kg-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-07.jpg</image:loc>
+      <image:title>PP Tee (6 kg / 10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/bend-spigot-type-6-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-08.jpg</image:loc>
+      <image:title>PP Bend, Spigot Type (6/10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/tee-spigot-type-6-10-kg/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-09.jpg</image:loc>
+      <image:title>PP Tee, Spigot Type (6/10 kg)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/tail-piece-flanged/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-10.jpg</image:loc>
+      <image:title>PP Tail Piece, Flanged</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/reducer/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-11.jpg</image:loc>
+      <image:title>PP Reducer</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/end-cap/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-12.jpg</image:loc>
+      <image:title>PP End Cap</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/tail-piece/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-13.jpg</image:loc>
+      <image:title>PP Tail Piece</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/socket-plain/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-14.jpg</image:loc>
+      <image:title>PP Socket (Plain)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/socket-bend-plain/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-15.jpg</image:loc>
+      <image:title>PP Socket Bend (Plain)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/socket-tee-plain/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-16.jpg</image:loc>
+      <image:title>PP Socket Tee (Plain)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/socket-threaded/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-17.jpg</image:loc>
+      <image:title>PP Socket (Threaded)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/socket-bend-threaded/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-18.jpg</image:loc>
+      <image:title>PP Socket Bend (Threaded)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pp-fittings/socket-tee-threaded/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pp-19.jpg</image:loc>
+      <image:title>PP Socket Tee (Threaded)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-01.jpg</image:loc>
+      <image:title>PVDF Fittings</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/bend-90/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-01.jpg</image:loc>
+      <image:title>PVDF Bend 90°</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/bend-45/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-02.jpg</image:loc>
+      <image:title>PVDF Bend 45°</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/tee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-03.jpg</image:loc>
+      <image:title>PVDF Tee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/coupler/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-04.jpg</image:loc>
+      <image:title>PVDF Coupler</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/slip-on-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-05.jpg</image:loc>
+      <image:title>PVDF Slip-on Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/core-flange-long-neck/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-06.jpg</image:loc>
+      <image:title>PVDF Core Flange (Long Neck)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/reducer-socket-butt-weld/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-07.jpg</image:loc>
+      <image:title>PVDF Reducer, Socket / Butt Weld</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/union/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-08.jpg</image:loc>
+      <image:title>PVDF Union</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/butt-weld-elbow/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-09.jpg</image:loc>
+      <image:title>PVDF Butt Weld Elbow</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/butt-weld-tee/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-10.jpg</image:loc>
+      <image:title>PVDF Butt Weld Tee</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/blind-flange/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-11.jpg</image:loc>
+      <image:title>PVDF Blind Flange</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/end-cap-socket-butt-weld/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-12.jpg</image:loc>
+      <image:title>PVDF End Cap, Socket / Butt Weld</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.azindustrialsolutions.com/products/pvdf-fittings/core-flange-socket/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <image:image>
+      <image:loc>https://www.azindustrialsolutions.com/catalogue/img/pvdf-13.jpg</image:loc>
+      <image:title>PVDF Core Flange Socket</image:title>
+    </image:image>
   </url>
 </urlset>

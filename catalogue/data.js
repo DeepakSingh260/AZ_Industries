@@ -6,6 +6,8 @@
    category  : a product catalogue. Only the first category whose status is
                'live' is shown on the site; others are kept here for later.
    family    : a group of products inside a category (e.g. "PPH Fittings")
+     material : the material, shown on the product pages
+     about    : one paragraph about the group, shown on the product pages
    product   : { n, name, spec, size }
      n     : number shown on the card (matches the printed catalogue)
      name  : product name
@@ -14,6 +16,10 @@
              (omit it for items that are quoted without a size)
      rated : true when the item is offered in 6 kg / 10 kg pressure classes
    Images live in catalogue/img/<family id>-<nn>.jpg
+   Each group and product also gets its own page under /products/ built from
+   this file: run  python3 tools/build_pages.py  after editing it. The page
+   address comes from the name (lower-case, hyphens), so renaming a product
+   changes its address.
    ═══════════════════════════════════════════════════════════════════ */
 window.AZ_CATALOGUE = {
   /* Standard pipe outside diameters used for the size dropdown */
@@ -39,6 +45,8 @@ window.AZ_CATALOGUE = {
         {
           id: 'hdpe', num: '01', name: 'HDPE Fittings',
           desc: 'Flange connections, bends, tees, reducers and end fittings.',
+          material: 'HDPE (high-density polyethylene)',
+          about: 'HDPE fittings join polyethylene pipe by butt fusion or by flanged connection. They are used in water and wastewater, mining and slurry lines, dewatering, irrigation and industrial process piping where corrosion resistance, toughness and low weight matter. Stub ends and flanges connect HDPE pipe to valves, pumps and steel pipework.',
           products: [
             { n: 1,  name: 'Short Neck Stub End',    spec: '20-630 mm OD', size: { unit: 'mm', min: 20, max: 630 } },
             { n: 2,  name: 'Long Neck Stub End',     spec: '20-630 mm OD', size: { unit: 'mm', min: 20, max: 630 } },
@@ -58,6 +66,8 @@ window.AZ_CATALOGUE = {
         {
           id: 'ef', num: '02', name: 'Electrofusion Fittings',
           desc: 'Connection products for polyethylene piping systems.',
+          material: 'HDPE, electrofusion',
+          about: 'Electrofusion fittings carry a built-in heating coil. An electrofusion welding unit melts the fitting onto the pipe to make a sealed, full-strength joint without a butt-fusion machine, which makes them the usual choice for repairs, tie-ins and work in confined spaces. Kit sizes cover the common branch and reducer combinations.',
           products: [
             { n: 1, name: 'Electrofusion Tee',         spec: 'Kit: 125-315 mm OD · 50-110 mm OD',  size: { unit: 'mm', min: 50, max: 315 } },
             { n: 2, name: 'Electrofusion Elbow 90°',   spec: 'Kit: 125-315 mm OD · 50-110 mm OD',  size: { unit: 'mm', min: 50, max: 315 } },
@@ -73,6 +83,8 @@ window.AZ_CATALOGUE = {
         {
           id: 'spigot', num: '03', name: 'Spigot Fittings',
           desc: 'Spigot end caps, bends, tees, reducing tees and flanges.',
+          material: 'HDPE, spigot (butt-fusion) type',
+          about: 'Spigot fittings have plain ends that are butt-fused to the pipe or joined with electrofusion couplers. They are used in the larger diameters and higher pressures of HDPE pipelines. Bends and tees are offered in 6 kg and 10 kg pressure classes.',
           products: [
             { n: 1, name: 'Spigot End Cap',              spec: '20-160 mm OD', size: { unit: 'mm', min: 20, max: 160 } },
             { n: 2, name: 'Bend, Spigot Type (6/10 kg)', spec: '20-315 mm OD', size: { unit: 'mm', min: 20, max: 315 }, rated: true },
@@ -86,6 +98,8 @@ window.AZ_CATALOGUE = {
         {
           id: 'pph', num: '04', name: 'PPH Fittings',
           desc: 'Fittings for industrial piping and process applications.',
+          material: 'PPH (polypropylene homopolymer)',
+          about: 'PPH fittings are used in chemical process, pickling and plating lines, fume scrubbing and effluent systems where higher chemical and temperature resistance than HDPE is needed. Socket-weld and butt-weld types are available in most sizes.',
           products: [
             { n: 1,  name: 'Short Neck Stub End',               spec: '20-400 mm OD', size: { unit: 'mm', min: 20, max: 400 } },
             { n: 2,  name: 'Long Neck Stub End',                spec: '20-400 mm OD', size: { unit: 'mm', min: 20, max: 400 } },
@@ -108,6 +122,8 @@ window.AZ_CATALOGUE = {
         {
           id: 'pprc', num: '05', name: 'PPRC Fittings',
           desc: 'Fusion fittings, threaded adapters, tees and flanged components.',
+          material: 'PPRC (polypropylene random copolymer)',
+          about: 'PPRC fittings are socket-fused to PPR pipe and are widely used for hot and cold water distribution, compressed air and HVAC lines in buildings and plants. Threaded tees, elbows and adaptors connect to metal pipework and valves.',
           products: [
             { n: 1,  name: 'Bend 90°',                 spec: '20-160 mm OD',    size: { unit: 'mm', min: 20, max: 160 } },
             { n: 2,  name: 'Bend 45°',                 spec: '20-160 mm OD',    size: { unit: 'mm', min: 20, max: 160 } },
@@ -136,6 +152,8 @@ window.AZ_CATALOGUE = {
         {
           id: 'pp', num: '06', name: 'PP Fittings',
           desc: 'Polypropylene fittings, including socket and threaded products.',
+          material: 'PP (polypropylene)',
+          about: 'PP fittings suit low-pressure drainage, chemical and effluent lines and industrial water systems. The range includes flanged, socket and threaded types.',
           products: [
             { n: 1,  name: 'Short Neck Stub End',          spec: '20-500 mm OD', size: { unit: 'mm', min: 20, max: 500 } },
             { n: 2,  name: 'Long Neck Stub End',           spec: '20-500 mm OD', size: { unit: 'mm', min: 20, max: 500 } },
@@ -161,6 +179,8 @@ window.AZ_CATALOGUE = {
         {
           id: 'pvdf', num: '07', name: 'PVDF Fittings',
           desc: 'PVDF connection products and fusion fittings.',
+          material: 'PVDF (polyvinylidene fluoride)',
+          about: 'PVDF fittings handle aggressive chemicals, solvents and higher temperatures than polypropylene. They are used in chemical processing, chlor-alkali service and high-purity lines in semiconductor and pharmaceutical plants.',
           products: [
             { n: 1,  name: 'Bend 90°',                      spec: '20-160 mm OD', size: { unit: 'mm', min: 20, max: 160 } },
             { n: 2,  name: 'Bend 45°',                      spec: '20-160 mm OD', size: { unit: 'mm', min: 20, max: 160 } },
