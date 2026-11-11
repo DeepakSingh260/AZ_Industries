@@ -471,7 +471,7 @@ footer{background:hsl(222.2,84%,4.9%);border-top:1px solid rgba(255,255,255,.06)
       <li><a onclick="goTo('home')" id="nl-home" class="nav-active">Home</a></li>
       <li><a onclick="goTo('services')" id="nl-services">Services</a></li>
       <li class="nav-dd">
-        <a href="/products/" onclick="return goTo('products')" id="nl-products" aria-haspopup="true">Industrial Products <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg></a>
+        <a href="/products/" id="nl-products" aria-haspopup="true">Industrial Products <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="6 9 12 15 18 9"/></svg></a>
         <div class="nav-dd-menu">
           <div class="nav-dd-inner" id="nav-dd-items"></div>
         </div>
@@ -576,7 +576,7 @@ footer{background:hsl(222.2,84%,4.9%);border-top:1px solid rgba(255,255,255,.06)
           <div class="card-title">Filtration Solutions</div>
           <div class="card-desc">Industrial filtration equipment and complete systems for reliable solid–liquid separation across a wide range of process applications.</div>
         </div>
-        <div class="card" style="cursor:pointer;background:var(--brand-pale);border-color:var(--brand-lt);" onclick="goTo('products')" role="link" tabindex="0" onkeydown="if(event.key==='Enter')goTo('products')">
+        <div class="card" style="cursor:pointer;background:var(--brand-pale);border-color:var(--brand-lt);" onclick="location.href='/products/'" role="link" tabindex="0" onkeydown="if(event.key==='Enter')location.href='/products/'">
           <div style="width:48px;height:48px;border-radius:10px;background:var(--brand);display:flex;align-items:center;justify-content:center;margin-bottom:1rem;flex-shrink:0;"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 5h7a9 9 0 0 1 9 9v6"/><path d="M3 10h7a4 4 0 0 1 4 4v6"/><path d="M2 5v5"/><path d="M14 20h5"/></svg></div>
           <div class="card-title">Industrial Pipe Fittings</div>
           <div class="card-desc">HDPE, PP, PPH, PPRC and PVDF fittings — 99 products, supplied across Canada. Build a quote list online.</div>
@@ -1129,10 +1129,11 @@ function buildIndex() {
     PROD[key] = Object.assign({}, p, {key, famId: f.id, famName: f.name, famNum: f.num, img: imgFor(f.id, p.n)});
   }));
 }
+/* The Industrial Products tab and its dropdown are plain links to the static catalogue pages; only the quote list (#quote) and the one-page view (#products) stay inside this app. */
 function renderNav() {
   const el = document.getElementById('nav-dd-items'); if (!el) return;
-  el.innerHTML = `<a href="/products/" onclick="return goTo('products')"><strong>All pipe fittings</strong><small>${famTotal()} products</small></a>` +
-    FAMS.map(f => `<a href="/products/${slugify(f.name)}/" onclick="return goTo('products','${f.id}')"><strong>${esc(f.name)}</strong><small>${f.products.length} products</small></a>`).join('');
+  el.innerHTML = `<a href="/products/"><strong>All pipe fittings</strong><small>${famTotal()} products</small></a>` +
+    FAMS.map(f => `<a href="/products/${slugify(f.name)}/"><strong>${esc(f.name)}</strong><small>${f.products.length} products</small></a>`).join('');
 }
 function renderFamilyBoxes() {
   const box = (id, thumb, num, name, countText) => `
