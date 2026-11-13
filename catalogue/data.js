@@ -40,7 +40,7 @@ window.AZ_CATALOGUE = {
       short: 'Industrial pipe fittings · 7 families · 99 products',
       status: 'live',
       title: 'Industrial Pipe Fittings',
-      intro: 'Flanges, stub ends, bends, tees, reducers, couplers, end caps and threaded adaptors in HDPE, PP, PPH, PPRC and PVDF, plus electrofusion and spigot ranges. Specify the fitting, size and quantity and we will quote pricing and availability for delivery anywhere in Canada.',
+      intro: 'Flanges, stub ends, bends, tees, reducers, couplers, end caps and threaded adaptors in HDPE, PP, PPH, PPRC and PVDF, plus electrofusion and spigot ranges. Specify the fitting, size and quantity and we will quote pricing and availability for delivery anywhere in Canada from Calgary, Alberta.',
       families: [
         {
           id: 'hdpe', num: '01', name: 'HDPE Fittings',

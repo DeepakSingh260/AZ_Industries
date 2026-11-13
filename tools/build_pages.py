@@ -253,7 +253,7 @@ def footer_html(fams):
         <img src="/logo/az-logo-mark.png" alt="AZ Industrial Solutions &amp; Automation logo" style="height:48px;width:auto;filter:invert(1) brightness(10);display:block;margin-bottom:1rem;">
         <div class="footer-logo-name">AZ Industrial Solutions &amp; Automation</div>
         <p class="footer-tagline">Customized industrial consulting solutions driving efficiency and growth across industries.</p>
-        <div class="footer-contact"><a href="mailto:info@azindustrialsolutions.com">info@azindustrialsolutions.com</a></div>
+        <div class="footer-contact"><a href="tel:+14374225849">+1 (437) 422-5849</a><br><a href="mailto:info@azindustrialsolutions.com">info@azindustrialsolutions.com</a><br>639 Cornerstone Way NE, Calgary, AB</div>
       </div>
       <div>
         <div class="footer-col-head">Quick Links</div>
@@ -272,6 +272,7 @@ def footer_html(fams):
       <div>
         <div class="footer-col-head">Contact</div>
         <ul class="footer-links">
+          <li><a href="tel:+14374225849">+1 (437) 422-5849</a></li>
           <li><a href="mailto:info@azindustrialsolutions.com">info@azindustrialsolutions.com</a></li>
           <li><a href="https://www.linkedin.com/company/smart-iwos/" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:.4rem;">%sLinkedIn</a></li>
           <li><a href="/#contact">Request a Quote</a></li>
@@ -385,7 +386,7 @@ def product_page(cat, live, fams, total, f, p):
     sname = seo_name(f, p)
     srange = stext.replace(' to ', '\u2013').replace(' mm OD', ' mm')
     title = '%s%s | %s' % (sname, (', ' + srange) if srange else '', BRAND)
-    lead = '%s%s, made of %s. Supplied across Canada by %s. Choose the size and quantity you need, add it to your quote list, and we reply with pricing, availability and lead time.' % (
+    lead = '%s%s, made of %s. Supplied across Canada from Calgary, Alberta by %s. Choose the size and quantity you need, add it to your quote list, and we reply with pricing, availability and lead time.' % (
         sname, (' in sizes from ' + stext) if stext else '', mat, BRAND)
     desc = '%s%s, supplied across Canada by %s. Request a quote online for pricing, availability and lead time.' % (
         sname, (', ' + stext) if stext else '', BRAND)
@@ -410,7 +411,7 @@ def product_page(cat, live, fams, total, f, p):
     if p.get('rated'):
         facts.append(('Pressure class', RATING_TEXT))
     facts.append(('Catalogue ref.', '%s-%s' % (f['num'], pad(p['n']))))
-    facts.append(('Supply', 'Quoted per size and quantity. Delivered across Canada.'))
+    facts.append(('Supply', 'Quoted per size and quantity. Shipped across Canada from Calgary, Alberta.'))
     facts_html = ''.join('<dt>%s</dt><dd>%s</dd>' % (esc(k), esc(v)) for k, v in facts)
 
     siblings = [q for q in f['products'] if q is not p]
@@ -493,7 +494,7 @@ def family_page(cat, live, fams, total, f):
   <div class="eyebrow eyebrow-blue" style="justify-content:center;">Industrial Products &middot; %(num)s</div>
   <h1>%(name)s</h1>
   <p>%(about)s</p>
-  <div class="hero-meta"><span><b>%(n)d</b> products</span>%(range)s<span>Delivered <b>across Canada</b></span></div>
+  <div class="hero-meta"><span><b>%(n)d</b> products</span>%(range)s<span>Delivered <b>across Canada</b> from Calgary, AB</span></div>
 </div></div>
 <div class="container">
 %(crumbs)s
@@ -536,7 +537,7 @@ def index_page(cat, live, fams, total):
   <div class="eyebrow eyebrow-blue" style="justify-content:center;">Industrial Products</div>
   <h1>%(title)s</h1>
   <p>%(intro)s</p>
-  <div class="hero-meta"><span><b>%(total)d</b> products</span><span><b>%(nf)d</b> product groups</span><span>Delivered <b>across Canada</b></span></div>
+  <div class="hero-meta"><span><b>%(total)d</b> products</span><span><b>%(nf)d</b> product groups</span><span>Delivered <b>across Canada</b> from Calgary, AB</span></div>
 </div></div>
 <div class="container"><div class="fam-cards">%(cards)s</div></div>
 <div class="container">%(crumbs)s</div>
